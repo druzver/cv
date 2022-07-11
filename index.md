@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+# My CV Application
 
-You can use the [editor on GitHub](https://github.com/druzver/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+**Vitaly  Iromenko**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+GitHub: [https://github.com/druzver]()
 
-```markdown
-Syntax highlighted code block
+LinkedIn: [https://linkedin.com/in/vitaly-yeromenko]()
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## About me.
 
-**Bold** and _Italic_ and `Code` text
+I position myself as a developer of native mobile applications, but also have enough knowledge in Java Script. About 10+ years of experience in commercial projects. Of which in mobile development for more than +7 years.
+Developed products in different languages JavaScript, Java, Kotlin, Swift, etc. I use JS for writing helper tools and backend. I know the full path of how to build an app, from scratch to the release in stores.
 
-[Link](url) and ![Image](src)
-```
+My goal is to participate in the creation of a useful product that people will use every day.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+## Main skils
+- Android development: Kotlin, Java, Android Jetpack 
+- iOS Development: Swift, Cocoa
+- Backend/Frontend development: Java Script/Coffee Script
+- Databases: SQLite, PostgreSQL
+- Release Markets: Google Play, Apple Store
+- Mobile Tools/Platforms: Firebase, Heap
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/druzver/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Communication languages:
+- Ukrainian - native speaker
+- Russian - native speaker
+- English - somewhere between  A2 (Pre Intermediate) - B1 (Intermediate)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+## Experience
+
+### 2015 - 2022 - Global Fleet Management Inc.
+
+ - [https://positrace.com](https://positrace.com)
+ - Role: Senior Mobile Developer
+ - Responsibility: Developing mobile solutions for GPS tracking and vehicle driver tools. Released native(Kotlin, Swift) and hybrid (Cordova) applications. Work with Maps, Bluetooth, Video Streaming, etc.  
+
+### 2014 - 2015 - Made It 
+  
+  - [https://madeit.com/](https://madeit.com/)
+  - Role: PHP Software Developer
+  - Responsibility: Developing the solutions for the hosting provider platform.
+
+### 2010 - 2014 - Regional Center of Informatization (Government Company)
+ - Role: Senior Software Developer
+ - Responsibilities: Develop tools for the regional government. Using PHP and JavaScript
+	
+
+### 2008-2009 - Bank "Family"
+ - Role: Database Developer
+ - Responsibilities: Support and extend banking tools by writing DB extensions and SQL requests
+
+
+
+### Education
+ - Donetsk State Institute of Artificial IntelligenceDonetsk State Institute of Artificial Intelligence. Software Engineering specialization
+
+
+
+
+
+
