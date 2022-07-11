@@ -9,7 +9,6 @@ GitHub: [https://github.com/druzver]()
 LinkedIn: [https://linkedin.com/in/vitaly-yeromenko]()
 
 
-
 ## About me.
 
 I position myself as a developer of native mobile applications, but also have enough knowledge in Java Script. About 10+ years of experience in commercial projects. Of which in mobile development for more than +7 years.
