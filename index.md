@@ -30,7 +30,7 @@ My goal is to participate in the creation of a useful product that people will u
 ## Technology stack for Android:
 
 - Language: Java, Kotlin 1.6
-- Architecture Patterns: MVVM + RxJava, “Google App Architecture Guides”  apps was spitted by layers: UI, Data, Domain
+- Architecture Patterns: MVVM + RxJava, “Google App Architecture Guides” apps were split by layers: UI, Data, Domain
 - Database:  SQLite + Room
 - Network:  retrofit2 + okhttp3, Socket connections
 - Firebase:  Messaging, Analytics, Crashlytics, Profilling
