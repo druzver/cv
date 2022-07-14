@@ -27,6 +27,33 @@ My goal is to participate in the creation of a useful product that people will u
 - Release Markets: Google Play, Apple Store
 - Mobile Tools/Platforms: Firebase, Heap
 
+## Technology stack for Android:
+
+- Language: Java, Kotlin 1.6
+- Architecture Patterns: MVVM + “Google App Architecture Guides”  apps was spitted by layers: UI, Data, Domain
+- Database:  SQLite + Room
+- Network:  retrofit2 + okhttp3, Socket connections
+- Firebase:  Messaging, Analytics, Crashlytics, Profilling
+- Dependency Injection:  Dagger2
+- UI: View Binding + xml
+- Some applications were split into feature modules
+- Unit Tests only for critical logic
+- Deployment: manual
+
+## Technology stack for iOS:
+
+- Language: Swift
+- Architecture Patterns: the same as Android
+- Database: SQLite + GRDB
+- Network: Alamofire, Starscream
+- UI: AutoLayout (without story boards)
+- Dependency Injection:  Factory + DI container
+- Package Managers: CocoaPods
+- Firebase:  Messaging, Analytics, Crashlytics
+- Unit Tests only for critical logic
+- Deployment: manual
+
+Server communications: HTTP+RESTI, WebSocket
 
 ## Communication languages:
 - Ukrainian - native speaker
