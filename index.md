@@ -63,6 +63,11 @@ Server communications: HTTP+RESTI, WebSocket
 
 ## Experience
 
+### 2022-2023 - Avirise
+  - Role: iOS Mobile Developer
+  - Responsibility: Developing mobile applications.
+
+
 ### 2015 - 2022 - Global Fleet Management Inc.
 
  - [https://positrace.com](https://positrace.com)
