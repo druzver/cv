@@ -9,7 +9,7 @@
 - GitHub: [https://github.com/druzver](https://github.com/druzver)
 - LinkedIn: [https://linkedin.com/in/vitaly-yeromenko](https://linkedin.com/in/vitaly-yeromenko)
 
-- PDF: [PDF File](cv_vitaly_iromenko.pdf)
+- [My CV as a PDF](cv_vitaly_iromenko.pdf)
 
 
 # About me
