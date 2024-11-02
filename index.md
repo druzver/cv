@@ -3,14 +3,16 @@
 (iOS / Android Mobile Developer)
 
 
-GitHub: [https://github.com/druzver](https://github.com/druzver)
-
-LinkedIn: [https://linkedin.com/in/vitaly-yeromenko](https://linkedin.com/in/vitaly-yeromenko)
-
-PDF: [PDF File](cv_vitaly_iromenko.pdf)
 
 
-##### About me
+
+- GitHub: [https://github.com/druzver](https://github.com/druzver)
+- LinkedIn: [https://linkedin.com/in/vitaly-yeromenko](https://linkedin.com/in/vitaly-yeromenko)
+
+- PDF: [PDF File](cv_vitaly_iromenko.pdf)
+
+
+# About me
 
 I am an experienced developer with a strong focus on native mobile applications and a solid background in JavaScript. With over 10 years in commercial development, including 7+ years dedicated to mobile, I bring extensive knowledge in creating reliable, high-quality products.
 
@@ -18,7 +20,7 @@ My technical expertise spans multiple languages, including Swift, Java, Kotlin, 
 
 Driven by a passion for impactful technology, I aim to contribute to products that enhance everyday life for users.
 
-##### Main skills
+# Main skills
 
 - **Mobile Development**: iOS (Swift, SwiftUI, CocoaPods, SPM), Android (Kotlin, Java, Android Jetpack)
 - **Backend/Frontend**: JavaScript, CoffeeScript, Type Script
@@ -27,7 +29,7 @@ Driven by a passion for impactful technology, I aim to contribute to products th
 - **Mobile Tools/Platforms**: Firebase, Heap
 
 
-**iOS:**
+**iOS**
 
 - Language: Swift
 - Architecture: MVVM + RxSwift
@@ -39,7 +41,7 @@ Driven by a passion for impactful technology, I aim to contribute to products th
 - Firebase: Messaging, Analytics, Crashlytics
 - Deployment: Manual (focus on critical unit tests)
 
-**Android:**
+**Android**
 
 - Language: Java, Kotlin
 - Architecture: MVVM + RxJava (Google App Architecture Guides)
@@ -52,13 +54,13 @@ Driven by a passion for impactful technology, I aim to contribute to products th
 
 **Server Communications**: RESTful HTTP, WebSocket
 
-**Languages**:
+**Languages**
 - Ukrainian: Native
 - Russian: Native
 - English: A2-B1 (Pre-Intermediate to Intermediate)
 
   
-**Experience**
+# Experience
 
 **2023 - Present**  
 _Freelance iOS Developer & Solo Entrepreneur_  
@@ -94,15 +96,15 @@ Software Engineering
 
 
 **IOS**
-Colouring Book: https://apps.apple.com/app/id6462673551
-Bubble Line VI: https://apps.apple.com/app/id6465992343
-Muslim Prayer Times: https://apps.apple.com/app/id1587151803
-PDF Scanner: https://apps.apple.com/app/id1552902248
-Positrace App: https://apps.apple.com/ua/app/positrace/id1512950497
-HOS:  https://apps.apple.com/ua/app/positrace-hos/id1233172776
+- Colouring Book: https://apps.apple.com/app/id6462673551
+- Bubble Line VI: https://apps.apple.com/app/id6465992343
+- Muslim Prayer Times: https://apps.apple.com/app/id1587151803
+- PDF Scanner: https://apps.apple.com/app/id1552902248
+- Positrace App: https://apps.apple.com/ua/app/positrace/id1512950497
+- HOS:  https://apps.apple.com/ua/app/positrace-hos/id1233172776
 
 
 **Android**
-Positrace: https://play.google.com/store/apps/details?id=com.positrace.mobile.locate
-ELD: https://play.google.com/store/apps/details?id=com.positrace.eld
-HOS: https://play.google.com/store/apps/details?id=com.positrace.hos
+- Positrace: https://play.google.com/store/apps/details?id=com.positrace.- mobile.locate
+- ELD: https://play.google.com/store/apps/details?id=com.positrace.eld
+- HOS: https://play.google.com/store/apps/details?id=com.positrace.hos
