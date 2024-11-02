@@ -1,101 +1,108 @@
-# My CV Application
+
+# Vitaly  Iromenko
+(iOS / Android Mobile Developer)
 
 
+GitHub: [https://github.com/druzver](https://github.com/druzver)
 
-**Vitaly  Iromenko**
-
-GitHub: [https://github.com/druzver]()
-
-LinkedIn: [https://linkedin.com/in/vitaly-yeromenko]()
+LinkedIn: [https://linkedin.com/in/vitaly-yeromenko](https://linkedin.com/in/vitaly-yeromenko)
 
 PDF: [PDF File](cv_vitaly_iromenko.pdf)
 
 
-## About me.
+##### About me
 
-I position myself as a developer of native mobile applications, but also have enough knowledge in Java Script. About 10+ years of experience in commercial projects. Of which in mobile development for more than +7 years.
-Developed products in different languages JavaScript, Java, Kotlin, Swift, etc. I use JS for writing helper tools and backend. I know the full path of how to build an app, from scratch to the release in stores.
+I am an experienced developer with a strong focus on native mobile applications and a solid background in JavaScript. With over 10 years in commercial development, including 7+ years dedicated to mobile, I bring extensive knowledge in creating reliable, high-quality products.
 
-My goal is to participate in the creation of a useful product that people will use every day.
+My technical expertise spans multiple languages, including Swift, Java, Kotlin, and JavaScript. I utilize JavaScript for building backend services and helpful tools to streamline development. I’m well-versed in the entire app lifecycle—from initial concept through to successful App Store release.
+
+Driven by a passion for impactful technology, I aim to contribute to products that enhance everyday life for users.
+
+##### Main skills
+
+- **Mobile Development**: iOS (Swift, SwiftUI, CocoaPods, SPM), Android (Kotlin, Java, Android Jetpack)
+- **Backend/Frontend**: JavaScript, CoffeeScript, Type Script
+- **Databases**: SQLite, PostgreSQL
+- **App Marketplaces**: Google Play, Apple App Store
+- **Mobile Tools/Platforms**: Firebase, Heap
 
 
-## Main skils
-- Android development: Kotlin, Java, Android Jetpack 
-- iOS Development: Swift, Cocoa
-- Backend/Frontend development: Java Script/Coffee Script
-- Databases: SQLite, PostgreSQL
-- Release Markets: Google Play, Apple Store
-- Mobile Tools/Platforms: Firebase, Heap
-
-## Technology stack for Android:
-
-- Language: Java, Kotlin 1.6
-- Architecture Patterns: MVVM + RxJava, “Google App Architecture Guides” apps were split by layers: UI, Data, Domain
-- Database:  SQLite + Room
-- Network:  retrofit2 + okhttp3, Socket connections
-- Firebase:  Messaging, Analytics, Crashlytics, Profilling
-- Dependency Injection:  Dagger2
-- UI: View Binding + xml
-- Some applications were split into feature modules
-- Unit Tests only for critical logic
-- Deployment: manual
-
-## Technology stack for iOS:
+**iOS:**
 
 - Language: Swift
-- Architecture Patterns: MVVM + RxSwift
-- Database: SQLite + GRDB
+- Architecture: MVVM + RxSwift
+- Database: SQLite, GRDB, SwiftData
 - Network: Alamofire, Starscream
-- UI: AutoLayout (without story boards)
-- Dependency Injection:  Factory + DI container
-- Package Managers: CocoaPods
-- Firebase:  Messaging, Analytics, Crashlytics
-- Unit Tests only for critical logic
-- Deployment: manual
+- UI: AutoLayout, SwiftUI (no storyboards)
+- Dependency Injection: Factory + DI container
+- Package Managers: CocoaPods, SPM
+- Firebase: Messaging, Analytics, Crashlytics
+- Deployment: Manual (focus on critical unit tests)
 
-Server communications: HTTP+RESTI, WebSocket
+**Android:**
 
-## Communication languages:
-- Ukrainian - native speaker
-- Russian - native speaker
-- English - somewhere between  A2 (Pre Intermediate) - B1 (Intermediate)
-
-
-## Experience
-
-### 2022-2023 - Avirise
-  - Role: iOS Mobile Developer
-  - Responsibility: Developing mobile applications.
+- Language: Java, Kotlin
+- Architecture: MVVM + RxJava (Google App Architecture Guides)
+- Database: SQLite + Room
+- Network: retrofit2 + okhttp3, Socket connections
+- UI: View Binding + XML (feature modules in some apps)
+- Firebase: Messaging, Analytics, Crashlytics
+- Dependency Injection: Dagger2
 
 
-### 2015 - 2022 - Global Fleet Management Inc.
+**Server Communications**: RESTful HTTP, WebSocket
 
- - [https://positrace.com](https://positrace.com)
- - Role: Senior Mobile Developer
- - Responsibility: Developing mobile solutions for GPS tracking and vehicle driver tools. Released native(Kotlin, Swift) and hybrid (Cordova) applications. Work with Maps, Bluetooth, Video Streaming, etc.  
+**Languages**:
+- Ukrainian: Native
+- Russian: Native
+- English: A2-B1 (Pre-Intermediate to Intermediate)
 
-### 2014 - 2015 - Made It 
   
-  - [https://madeit.com/](https://madeit.com/)
-  - Role: PHP Software Developer
-  - Responsibility: Developing the solutions for the hosting provider platform.
+**Experience**
 
-### 2010 - 2014 - Regional Center of Informatization (Government Company)
- - Role: Senior Software Developer
- - Responsibilities: Develop tools for the regional government. Using PHP and JavaScript
-	
+**2023 - Present**  
+_Freelance iOS Developer & Solo Entrepreneur_  
+Creating high-quality, user-friendly iOS solutions for clients, with a focus on Swift and SwiftUI.
 
-### 2008-2009 - Bank "Family"
- - Role: Database Developer
- - Responsibilities: Support and extend banking tools by writing DB extensions and SQL requests
+**2022 - 2023**  
+_iOS Mobile Developer | Avirise_  
+Supported and developed mobile applications.
+
+**2015 - 2022**  
+_Senior Mobile Developer | Global Fleet Management Inc._  
+Developed GPS tracking and driver tools in native (Kotlin, Swift) and hybrid (Cordova) apps, including Maps, Bluetooth, and Video Streaming.
+
+**2014 - 2015**  
+_PHP Software Developer | Made It_  
+Built solutions for a hosting provider platform.
+
+**2010 - 2014**  
+_Senior Software Developer | Government Company_  
+Developed tools for regional government using PHP and JavaScript.
+
+**2008 - 2009**  
+_Database Developer | Bank "Family"_  
+Enhanced banking tools with database extensions and SQL scripts.
+
+**Education**  
+_Donetsk State Institute of Artificial Intelligence_  
+Software Engineering
 
 
 
-### Education
- - Donetsk State Institute of Artificial IntelligenceDonetsk State Institute of Artificial Intelligence. Software Engineering specialization
+# Portfolio 
 
 
+**IOS**
+Colouring Book: https://apps.apple.com/app/id6462673551
+Bubble Line VI: https://apps.apple.com/app/id6465992343
+Muslim Prayer Times: https://apps.apple.com/app/id1587151803
+PDF Scanner: https://apps.apple.com/app/id1552902248
+Positrace App: https://apps.apple.com/ua/app/positrace/id1512950497
+HOS:  https://apps.apple.com/ua/app/positrace-hos/id1233172776
 
 
-
-
+**Android**
+Positrace: https://play.google.com/store/apps/details?id=com.positrace.mobile.locate
+ELD: https://play.google.com/store/apps/details?id=com.positrace.eld
+HOS: https://play.google.com/store/apps/details?id=com.positrace.hos
